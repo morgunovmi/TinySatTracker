@@ -8,3 +8,8 @@ Install project dependencies with
 pip3 install -r requirements.txt
 ```
 After this you can import and use the module in your scripts
+
+Run the NOAA-18 example with
+```
+python3 example.py
+```
